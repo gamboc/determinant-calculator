@@ -1,4 +1,4 @@
 # Determinant calculator
 Simple program in Java that calculcates the determinant of a matrix.
 
-For now you need to edit the main funcition in the Determinant.java file to get a different matrix. Soon won't be neccesary.
+The user is asked to enter the size of the matrix, then to enter row-by-row the values in the matrix. After that the program will return the determinant of the matrix.
